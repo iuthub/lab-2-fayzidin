@@ -1,0 +1,16 @@
+body {
+	background-color: grey;
+}
+h1{color: lightblue;}
+h2{color: lightblue;}
+.yelword{
+	color: yellow;
+}
+.liword{
+	color: lime;
+	text-decoration: underline;	
+	text-decoration-color: lime; 
+}
+.font{
+	font-family: Arial;
+}
